@@ -28,4 +28,4 @@ spec:
       containers:
         - name: hello
           image: adhithn/projectk:latest
-          imagePullPolicy: Always[7]
+          imagePullPolicy: Always
